@@ -322,8 +322,8 @@ chmod 755 frontend/web/uploads
 
 ## Контакты
 
-Разработчик: [Юрий Сергеев]
-Telegram: @yms_sevastopol
-email: ysergeev@yandex.ru
+Разработчик: Юрий Сергеев
+- Telegram: @yms_sevastopol
+- email: ysergeev@yandex.ru
 
-Дата разработки: Декабрь 2023
+Дата разработки: Декабрь 2025
